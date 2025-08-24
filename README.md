@@ -1,4 +1,4 @@
-# Maxime's Dev Diary - Stage ENI
+# Blog B2 - Stage ENI
 
 Ce projet présente mon expérience de stage de 6 semaines chez ENI, où j'ai développé un site vitrine avec React et approfondi mes compétences en développement web.
 
